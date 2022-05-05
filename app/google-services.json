@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15678731748",
+    "project_id": "book-app-64f0e",
+    "storage_bucket": "book-app-64f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15678731748:android:8859a027e26e253e2983f1",
+        "android_client_info": {
+          "package_name": "joshuuduan.giaoly.bookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15678731748-mr2e7s3hu99pl5ue9jird6vve8j5nhck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "joshuuduan.giaoly.bookapp",
+            "certificate_hash": "b46962cff91be825914ba4f4a3de24b73f9c5f44"
+          }
+        },
+        {
+          "client_id": "15678731748-ot6m8mbt0fo4p0r15mcklhlqc8j6rbos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezwH4PrCHpqWXh9yxa0dCz4uKYg5OVO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15678731748-ot6m8mbt0fo4p0r15mcklhlqc8j6rbos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
